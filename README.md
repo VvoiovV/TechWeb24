@@ -1,2 +1,33 @@
 # TechWeb24
 Laby
+
+
+This page is with sweets
+You can read about it!
+
+ice cream brownie pudding tiramisu pie. carrot cake topping chocolate cake liquorice sweet souffle croissant. Cheesecake cheesecake jelly-o candy canes cookie apple pie jujubes. Candy canes pudding carmels biscuit tootsie roll candy. Donut candy donut caramels cake. Bonbon jelly-o chcolate cake carmels bear claw pie chocolate cake donut pastry.
+
+Read more>
+
+Updated 2017-08-07
+
+Chosose your favorite sweets
+
+cupcake
+chocolate
+lolipop
+gummies
+another gummies
+croissant
+
+Structure in our company
+
+1. John Sweet, Owner
+	all things related with doing bussines
+2. Madlaine Kowalski, Marketing
+	all things related with marketing
+3. Paul Markov, Sales
+	Meet with clients
+4.Grandma Basia, Cook & Master of Design
+	Cooking
+	Prepare new recipies
